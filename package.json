@@ -1,0 +1,35 @@
+{
+  "name": "sphero-gyroscope",
+  "version": "1.0.0",
+  "description": "Use your sphero gyroscope as a 3D controller",
+  "main": "index.js",
+  "dependencies": {
+    "cylon": "^1.2.0",
+    "cylon-sphero": "^0.21.0",
+    "express": "^4.13.3",
+    "logops": "^0.5.0",
+    "socket.io": "^1.3.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/palmerabollo/sphero-gyroscope.git"
+  },
+  "engines": {
+    "node": "=0.10"
+  },
+  "keywords": [
+    "sphero",
+    "gyroscope",
+    "controller",
+    "robot"
+  ],
+  "author": "Guido García <palmerabollo@gmail.com> (http://twitter.com/palmerabollo)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/palmerabollo/sphero-gyroscope/issues"
+  },
+  "homepage": "https://github.com/palmerabollo/sphero-gyroscope"
+}
